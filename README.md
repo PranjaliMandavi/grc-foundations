@@ -1,62 +1,64 @@
 # GRC Foundations
 
-Welcome to my **Governance, Risk, and Compliance (GRC)** learning portfolio.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pranjali_Mandavi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjali-mandavi-880290388/)
+[![Medium](https://img.shields.io/badge/Medium-Technical_Articles-000000?logo=medium&logoColor=white)](https://medium.com/@PranjaliMandavi)
 
-This repository documents my hands-on journey of learning GRC through practical documentation, projects, and case studies based on a fictional organization, **Mandavi FinTech Pvt. Ltd.**
+## Overview
 
----
+This repository showcases practical Governance, Risk, and Compliance (GRC) projects developed through structured learning and hands-on implementation. Each chapter focuses on a fundamental GRC domain and is supported by practical documentation, templates, and business-oriented deliverables.
 
-## About This Repository
-
-The goal of this repository is to develop practical GRC skills by creating real-world deliverables instead of only studying theory. Each chapter focuses on a core GRC topic and includes supporting documentation, notes, and practical artifacts.
-
----
-
-## Current Progress
-
-### ✅ Chapter 1 – Information Security Fundamentals
-
-**Topics Covered**
-
-* Information Security
-* CIA Triad
-* Security Objectives
-* Information Assets
-
-**Current Deliverables**
-
-* Information Asset Inventory
+All work is based on a fictional organization, **Mandavi FinTech Pvt. Ltd.**, providing a consistent enterprise context for applying information security and risk management concepts.
 
 ---
 
-## Tools Used
+## Completed Chapters
 
-* Microsoft Excel
-* GitHub
-* Markdown
+### Chapter 01 — Information Security Fundamentals
 
----
+Established the foundation of information security by identifying organizational information assets, understanding security objectives, and applying asset classification principles. The chapter concludes with the creation of an Information Asset Inventory for the fictional organization.
 
-## Learning Approach
+**Deliverable**
 
-For each chapter, I aim to:
-
-1. Study the concepts.
-2. Create concise notes.
-3. Build a practical deliverable.
-4. Document my work in GitHub.
-5. Publish a detailed Medium article.
+- Information Asset Inventory
 
 ---
 
-## Repository Status
+### Chapter 02 — Risk Fundamentals
 
-🚧 This repository is actively being updated as I progress through my GRC learning journey.
+Introduced the core concepts of risk management by identifying assets, threats, vulnerabilities, and business risks. A qualitative risk assessment methodology was applied to evaluate business scenarios based on likelihood and impact, resulting in a structured Business Risk Register.
+
+**Deliverables**
+
+- Business Risk Register
+- Risk Scenario Assessment
 
 ---
 
-## Author
+## Repository Structure
 
-**Pranjali Mandavi**
+```text
+grc-foundations/
+├── Chapter-01-Information-Security-Fundamentals/
+├── Chapter-02-Risk-Fundamentals/
+└── README.md
+```
 
-Aspiring GRC Analyst | Information Security | Risk Management | ISO/IEC 27001
+---
+
+## Technologies
+
+- Microsoft Excel
+- GitHub
+- Markdown
+
+---
+
+## Objective
+
+To build a practical portfolio demonstrating the application of Governance, Risk, and Compliance principles through structured documentation and realistic business scenarios.
+
+---
+
+## Disclaimer
+
+All business scenarios, organizational references, and supporting documentation in this repository are fictional and created solely for educational and portfolio purposes.
