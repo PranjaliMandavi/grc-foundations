@@ -1,41 +1,56 @@
-Chapter 03 — Governance Basics & Policy Writing
+# Chapter 03 — Governance Basics & Policy Writing
 
 Overview
 
-Introduces the foundational principles of Governance and organizational policy development within an Information Security and Governance, Risk, and Compliance (GRC) environment.
-
-The concepts presented in this chapter are applied through a structured deliverable developed for Mandavi FinTech Pvt. Ltd., a fictional fintech company created solely for educational and portfolio purposes. The organization and its governance documentation are hypothetical and are used to simulate real-world GRC practices.
+Introduces the foundational concepts of Governance and organizational policy development, demonstrating their practical application through a structured policy development exercise. The chapter applies these concepts within the context of a fictional organization, Mandavi FinTech Pvt. Ltd., created solely for educational and portfolio purposes.
 
 ---
 
-Topics Covered
+## Topics Covered
 
 - Governance vs Risk vs Compliance
 - Policy vs Standard vs Procedure vs Guideline vs Baseline
 - Policy Lifecycle
 - Information Security Policy Structure
-- Acceptable Use Policy
+- Acceptable Use Policy (AUP)
 - Password Policy
 - Policy Review and Approval Process
 - Policy Communication and Awareness
 
 ---
 
-Practical Exercise
+## Practical Exercise
 
-Developed a complete set of foundational Information Security policies for the fictional organization Mandavi FinTech Pvt. Ltd., including an Information Security Policy, Password Policy, and Acceptable Use Policy (AUP).
+Developed a complete Information Security Policy suite for Mandavi FinTech Pvt. Ltd., establishing foundational governance documentation for a fictional 200-person organization.
 
-Each policy is structured using common enterprise documentation practices, including document versioning, approval authorities, review schedules, scope, purpose, roles and responsibilities, and policy statements to demonstrate policy development within a Governance, Risk, and Compliance (GRC) program.
+The policy suite includes:
+
+- Information Security Policy
+- Acceptable Use Policy (AUP)
+- Password Policy
+
+Each policy includes:
+
+- Document Version Control
+- Approval Authority
+- Review Schedule
+- Purpose and Scope
+- Roles and Responsibilities
+- Policy Statements
 
 ---
 
-Deliverable
+## Deliverables
 
-Professional Security Policy Suite — Three professionally formatted policy documents comprising an Information Security Policy, Password Policy, and Acceptable Use Policy (AUP), each including version control, document ownership, approval sections, and review dates.
+- Information Security Policy (Word)
+- Acceptable Use Policy (Word)
+- Password Policy (Word)
+
+Each document is professionally formatted with version control, approval sections, and scheduled review dates.
 
 ---
 
-Published Article
+## Published Article
 
 How to Write an Information Security Policy That People Actually Follow
 
