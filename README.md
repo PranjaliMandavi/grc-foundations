@@ -57,6 +57,10 @@ grc-foundations/
 
 To build a practical portfolio demonstrating the application of Governance, Risk, and Compliance principles through structured documentation and realistic business scenarios.
 
+## Medium Link
+
+All topics related to GRC is being uploaded and can be accessed on the below provided link
+https://medium.com/@PranjaliMandavi/list/governance-risk-compliance-fundamentals-6701d850cf7d
 ---
 
 ## Disclaimer
