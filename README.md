@@ -59,7 +59,7 @@ To build a practical portfolio demonstrating the application of Governance, Risk
 
 ## Medium Link
 
-All topics related to GRC is being uploaded and can be accessed on the below provided link
+This Governance, Risk, and Compliance (GRC) article series is updated regularly as new topics are covered. You can follow the complete series using the link below.
 https://medium.com/@PranjaliMandavi/list/governance-risk-compliance-fundamentals-6701d850cf7d
 ---
 
