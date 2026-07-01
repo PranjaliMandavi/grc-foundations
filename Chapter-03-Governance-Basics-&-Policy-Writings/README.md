@@ -51,6 +51,8 @@ Each document is professionally formatted with version control, approval section
 ---
 
 ## Published Article
+Who Decides the Rules? Understanding Governance in Information Security
+https://medium.com/@PranjaliMandavi/who-decides-the-rules-understanding-governance-in-information-security-4d0d9bdc1d14
 
 How to Write an Information Security Policy That People Actually Follow
 
