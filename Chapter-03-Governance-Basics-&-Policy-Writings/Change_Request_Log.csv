@@ -1,0 +1,4 @@
+cr_id,date,policy_id,requested_change,requested_by,impact,decision,status
+CR-001,2026-10-09,POL-AC-001,Require MFA for remote and administrator access,Security team,High,Approved,Implemented in v0.2
+CR-002,2026-10-09,POL-AC-001,Disable accounts inactive for 45 days,Internal audit,Medium,Approved,Implemented in v0.2
+CR-003,2026-10-09,POL-AC-001,Allow shared service desk mailbox login,IT operations,High,Rejected,Use delegated access instead (fictional example)
